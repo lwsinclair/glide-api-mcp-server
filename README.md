@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/knmurphy-glide-api-mcp-server-badge.png)](https://mseep.ai/app/knmurphy-glide-api-mcp-server)
+
 # Glide API MCP Server
 
 A Model Context Protocol server for interacting with the Glide API (v1 & v2).
